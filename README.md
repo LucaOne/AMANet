@@ -8,6 +8,7 @@ https://dl.acm.org/doi/abs/10.1145/3394486.3403055
 
 
 ## Citation     
+
 @inproceedings{he2020attention,    
   title={Attention and memory-augmented networks for dual-view sequential learning},    
   author={He, Yong and Wang, Cheng and Li, Nan and Zeng, Zhenyu},    
